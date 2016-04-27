@@ -1,2 +1,3 @@
-# fb-messenger-bot
-A Facebook Messenger Bot
+# Create your own Facebook Messenger bot
+
+An example for a Facebook Messenger Bot written for Audemars Piguet.
